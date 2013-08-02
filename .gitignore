@@ -14,3 +14,11 @@
 # Maven
 log/
 target/
+
+# Java compiled sources
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
